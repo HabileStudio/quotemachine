@@ -1,0 +1,9 @@
+.App {
+  display :       block;
+  height :        100vh;
+  text-align:     center;
+  display :       flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color : #fcfcf0;
+}

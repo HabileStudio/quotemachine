@@ -1,0 +1,19 @@
+.TweetQuote{
+
+}
+  .TweetQuote > a:link,
+  .TweetQuote > a:visited{
+    text-decoration:  none;
+    background-color: #0090cc;
+    border :          1px solid #0060aa;
+    border-radius:    20px;
+    color:            #ffffff;
+    padding :         10px 60px;
+    transition :      all 300ms ease-in;
+  }
+  .TweetQuote > a:active,
+  .TweetQuote > a:hover{
+    color:              #ffffff;
+    background-color :  #00aaee;
+    border-color :      #0090cc;
+  }
